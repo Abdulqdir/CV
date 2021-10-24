@@ -1,2 +1,2 @@
 # CV
-personal website
+personal website built on HTML
